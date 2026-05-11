@@ -6,11 +6,7 @@
       "Bash(npx vitest *)",
       "Bash(claude mcp *)",
       "mcp__playwright",
-      "Bash(brew install *)",
-      "Bash(gh auth *)",
-      "Bash(gh repo *)",
-      "Bash(claude setup-token *)",
-      "Bash(claude install-github-app *)"
+      "Bash(gh pr create --title 'Add Claude GitHub Action with Playwright MCP and project setup' --body ' *)"
     ],
     "deny": []
   }
