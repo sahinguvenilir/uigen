@@ -5,7 +5,12 @@
       "Bash(npm install *)",
       "Bash(npx vitest *)",
       "Bash(claude mcp *)",
-      "mcp__playwright"
+      "mcp__playwright",
+      "Bash(brew install *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(claude setup-token *)",
+      "Bash(claude install-github-app *)"
     ],
     "deny": []
   }
